@@ -1,0 +1,6 @@
+{
+  "name": "Shah Jee Courier",
+  "description": "Premium 3PL logistics client portal for Shah Jee Courier, featuring shipment booking, live tracking, automated payments, WhatsApp integration, and return order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
